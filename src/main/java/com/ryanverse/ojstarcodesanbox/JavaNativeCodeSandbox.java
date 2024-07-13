@@ -31,6 +31,9 @@ public class JavaNativeCodeSandbox implements CodeSandbox {
 	private static final String USER_DIR = "user.dir";
 	private static final String GLOBAL_CODE_PATH = "tempCode";
 	private static final String GLOBAL_JAVA_CLASS_NAME = "Main.java";
+	private static final String SIMPLE_COMPUTE_MAIN = "testCode/simpleCompute/Main.java";
+	private static final String SIMPLE_COMPUTE_ARGS_MAIN = "testCode/simpleComputeArgs/Main.java";
+	private static final String UNSAFE_CODE_MAIN = "testCode/unsafeCode/WriteFileError.java";
 
 	public static void main (String[] args) {
 		JavaNativeCodeSandbox javaNativeCodeSandbox = new JavaNativeCodeSandbox();
@@ -38,7 +41,7 @@ public class JavaNativeCodeSandbox implements CodeSandbox {
 		executeCodeRequest.setLanguage("java");
 		executeCodeRequest.setInputList(Arrays.asList("1 2", "1 3"));
 //		String code = ResourceUtil.readStr("testCode/simpleCompute/Main.java", StandardCharsets.UTF_8);
-		String code = ResourceUtil.readStr("testCode/simpleComputeArgs/Main.java", StandardCharsets.UTF_8);
+		String code = ResourceUtil.readStr(UNSAFE_CODE_MAIN, StandardCharsets.UTF_8);
 		executeCodeRequest.setCode(code);
 		ExecuteCodeResponse executeCodeResponse = javaNativeCodeSandbox.executeCode(executeCodeRequest);
 		System.out.println(executeCodeResponse);
