@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 /**
  * ClassName: WriteFileError
- * Package: com.ryanverse.ojstarcodesanbox.unsafe
+ * Package: com.ryanverse.ojstarcodesandbox.unsafe
  * Description:
  *
  * @Author Haoran

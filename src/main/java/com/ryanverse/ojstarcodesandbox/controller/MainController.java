@@ -1,11 +1,11 @@
-package com.ryanverse.ojstarcodesanbox.controller;
+package com.ryanverse.ojstarcodesandbox.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
  * ClassName: MainController
- * Package: com.ryanverse.ojstarcodesanbox.controller
+ * Package: com.ryanverse.ojstarcodesandbox.controller
  * Description:
  *
  * @Author Haoran

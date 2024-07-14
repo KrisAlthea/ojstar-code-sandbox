@@ -1,8 +1,8 @@
-package com.ryanverse.ojstarcodesanbox.security;
+package com.ryanverse.ojstarcodesandbox.security;
 
 /**
  * ClassName: TestSecurityManager
- * Package: com.ryanverse.ojstarcodesanbox.security
+ * Package: com.ryanverse.ojstarcodesandbox.security
  * Description:
  *
  * @Author Haoran

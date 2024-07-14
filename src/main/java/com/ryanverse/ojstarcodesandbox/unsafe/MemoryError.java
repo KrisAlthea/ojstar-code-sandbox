@@ -1,11 +1,11 @@
-package com.ryanverse.ojstarcodesanbox.unsafe;
+package com.ryanverse.ojstarcodesandbox.unsafe;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * ClassName: MemoryError
- * Package: com.ryanverse.ojstarcodesanbox.unsafe
+ * Package: com.ryanverse.ojstarcodesandbox.unsafe
  * Description: 无限占用空间
  *
  * @Author Haoran

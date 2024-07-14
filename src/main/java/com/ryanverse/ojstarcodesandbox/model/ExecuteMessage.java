@@ -1,10 +1,10 @@
-package com.ryanverse.ojstarcodesanbox.model;
+package com.ryanverse.ojstarcodesandbox.model;
 
 import lombok.Data;
 
 /**
  * ClassName: ExecuteMessage
- * Package: com.ryanverse.ojstarcodesanbox.model
+ * Package: com.ryanverse.ojstarcodesandbox.model
  * Description: 进程执行信息
  *
  * @Author Haoran

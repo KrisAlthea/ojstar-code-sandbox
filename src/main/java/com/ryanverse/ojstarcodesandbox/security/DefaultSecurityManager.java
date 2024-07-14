@@ -1,10 +1,10 @@
-package com.ryanverse.ojstarcodesanbox.security;
+package com.ryanverse.ojstarcodesandbox.security;
 
 import java.security.Permission;
 
 /**
  * ClassName: DefaultSecurityManager
- * Package: com.ryanverse.ojstarcodesanbox.security
+ * Package: com.ryanverse.ojstarcodesandbox.security
  * Description: 默认的安全管理器
  *
  * @Author Haoran

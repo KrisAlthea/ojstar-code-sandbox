@@ -1,8 +1,8 @@
-package com.ryanverse.ojstarcodesanbox.unsafe;
+package com.ryanverse.ojstarcodesandbox.unsafe;
 
 /**
  * ClassName: SleepError
- * Package: com.ryanverse.ojstarcodesanbox.unsafe
+ * Package: com.ryanverse.ojstarcodesandbox.unsafe
  * Description: 无限睡眠, 阻塞程序执行
  *
  * @Author Haoran

@@ -1,4 +1,4 @@
-package com.ryanverse.ojstarcodesanbox.unsafe;
+package com.ryanverse.ojstarcodesandbox.unsafe;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  * ClassName: WriteFileError
- * Package: com.ryanverse.ojstarcodesanbox.unsafe
+ * Package: com.ryanverse.ojstarcodesandbox.unsafe
  * Description: 写入木马
  *
  * @Author Haoran

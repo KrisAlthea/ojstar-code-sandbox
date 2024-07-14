@@ -1,12 +1,12 @@
-package com.ryanverse.ojstarcodesanbox;
+package com.ryanverse.ojstarcodesandbox;
 
 
-import com.ryanverse.ojstarcodesanbox.model.ExecuteCodeRequest;
-import com.ryanverse.ojstarcodesanbox.model.ExecuteCodeResponse;
+import com.ryanverse.ojstarcodesandbox.model.ExecuteCodeRequest;
+import com.ryanverse.ojstarcodesandbox.model.ExecuteCodeResponse;
 
 /**
  * ClassName: CodeSandbox
- * Package: com.ryanverse.ojstarcodesanbox.judge.codesandbox
+ * Package: com.ryanverse.ojstarcodesandbox.judge.codesandbox
  * Description: 代码沙箱接口
  *
  * @Author Haoran

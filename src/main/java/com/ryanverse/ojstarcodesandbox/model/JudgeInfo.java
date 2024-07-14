@@ -1,10 +1,10 @@
-package com.ryanverse.ojstarcodesanbox.model;
+package com.ryanverse.ojstarcodesandbox.model;
 
 import lombok.Data;
 
 /**
  * ClassName: JudgeCase
- * Package: com.ryanverse.ojstarcodesanbox.model.dto.question
+ * Package: com.ryanverse.ojstarcodesandbox.model.dto.question
  * Description:
  *
  * @Author Haoran

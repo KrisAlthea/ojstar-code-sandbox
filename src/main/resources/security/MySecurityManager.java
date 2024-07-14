@@ -2,7 +2,7 @@ import java.security.Permission;
 
 /**
  * ClassName: MySecurityManager
- * Package: com.ryanverse.ojstarcodesanbox.security
+ * Package: com.ryanverse.ojstarcodesandbox.security
  * Description: 自定义安全管理器
  *
  * @Author Haoran

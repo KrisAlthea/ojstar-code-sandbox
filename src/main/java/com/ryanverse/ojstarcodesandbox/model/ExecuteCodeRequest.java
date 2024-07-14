@@ -1,4 +1,4 @@
-package com.ryanverse.ojstarcodesanbox.model;
+package com.ryanverse.ojstarcodesandbox.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * ClassName: ExecuteCodeRequest
- * Package: com.ryanverse.ojstarcodesanbox.judge.codesandbox.model
+ * Package: com.ryanverse.ojstarcodesandbox.judge.codesandbox.model
  * Description:
  *
  * @Author Haoran

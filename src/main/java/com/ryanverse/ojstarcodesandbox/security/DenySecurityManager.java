@@ -1,10 +1,10 @@
-package com.ryanverse.ojstarcodesanbox.security;
+package com.ryanverse.ojstarcodesandbox.security;
 
 import java.security.Permission;
 
 /**
  * ClassName: DenySecurityManager
- * Package: com.ryanverse.ojstarcodesanbox.security
+ * Package: com.ryanverse.ojstarcodesandbox.security
  * Description: 拒绝所有的权限
  *
  * @Author Haoran

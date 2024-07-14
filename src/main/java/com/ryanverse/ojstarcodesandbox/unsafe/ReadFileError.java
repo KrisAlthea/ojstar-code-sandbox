@@ -1,4 +1,4 @@
-package com.ryanverse.ojstarcodesanbox.unsafe;
+package com.ryanverse.ojstarcodesandbox.unsafe;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * ClassName: ReadFileError
- * Package: com.ryanverse.ojstarcodesanbox.unsafe
+ * Package: com.ryanverse.ojstarcodesandbox.unsafe
  * Description: 读取服务器文件
  *
  * @Author Haoran
